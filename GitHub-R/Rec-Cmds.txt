@@ -1,0 +1,11 @@
+---
+IpSn-Ip snatch
+--
+SlfIp-Self Ip snatch
+--
+RmIp-Remote control 
+--
+Sht-Shutdown
+--
+RecMen-Go back to menu
+------Your option--->
